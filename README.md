@@ -35,7 +35,7 @@ Built with a "Security-First" philosophy, it serves as a lightweight alternative
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/redna-sentinel.git](https://github.com/your-username/redna-sentinel.git)
+   git clone [https://github.com/xredna/redna-sentinel.git](https://github.com/xredna/redna-sentinel.git)
 2. Navigate to the project directory:
 cd redna-sentinel
 3. Install dependencies:
